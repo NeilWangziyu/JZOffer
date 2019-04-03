@@ -25,7 +25,8 @@ def quick_sort(list_t):
 # words
 # exmaple: "Hello world. 123 !"  -> "! 123 world. Hello"
 
-
+# JZ offer 58
+# 两个..都有bug
 def reverse_word(string):
     if not string:
         return ""
