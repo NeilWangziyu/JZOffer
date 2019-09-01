@@ -9,7 +9,6 @@ def main():
     while(j < len(villages) and villages[j]<=0):
         j += 1
 
-
     total_use = 0
     # i:负数
     # j:正数
